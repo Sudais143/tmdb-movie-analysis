@@ -66,7 +66,7 @@ pip install pandas requests matplotlib seaborn numpy jupyter
 
 3. Add your TMDB API key:
    - Open `TMDB_Movie_Analysis.ipynb`
-   - Replace `"your_api_key_here"` with your actual TMDB API key
+   - Replace `"Api_key"` with your actual TMDB API key
 
 4. Run the notebook:
 ```bash
@@ -163,5 +163,6 @@ Through this project, you will learn:
 For questions or suggestions, please open an issue in this repository.
 
 ---
+
 
 **Note**: This project requires a free TMDB API key. Please respect TMDB's terms of service and rate limits when using their API.
